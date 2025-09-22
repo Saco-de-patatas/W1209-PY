@@ -1,4 +1,4 @@
-Para la versión en español, click [aquí]<https://github.com/Saco-de-patatas/W1209-PY/blob/main/README.MD>
+Para la versión en español, click [aquí][https://github.com/Saco-de-patatas/W1209-PY/blob/main/README.MD]
 
 **Description:**
 

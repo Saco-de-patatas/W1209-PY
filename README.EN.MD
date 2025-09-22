@@ -1,4 +1,4 @@
-Para la versión en español, click [aquí](README.MD)
+Para la versión en español, click [aquí](README.MD).
 
 **Description:**
 

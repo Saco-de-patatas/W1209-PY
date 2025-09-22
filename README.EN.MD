@@ -94,9 +94,10 @@ Steinhart-hart equation, specifically in the form:
 
 $$T_{1} = \frac{\beta}{\ln{\frac{R_{1}}{R_{0}} + \frac{\beta}{T_{0}}}} = \ \frac{\beta}{\ln{R_{1} - \ln R_{0}} + \frac{\beta}{T_{0}}}$$
 
-![](media/image1.png){width="7.644419291338583in"
-height="6.270833333333333in"}The following diagram shows the variation
+The following diagram shows the variation
 of the HW-557C version adapted to the improvement of the W1209-PY.
+
+![](Schematic/Esquema_W1206_PY.png)
 
 The W1209-PY works similarly to the original module. I\'ve tried to
 maintain a certain degree of compatibility so that people who already

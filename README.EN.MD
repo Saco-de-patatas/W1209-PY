@@ -333,7 +333,7 @@ is usually derived from two resistance/temperature pairs called
 Beta and one of the pairs, the other can be derived since they are
 interchangeable. This parameter is usually defined by the manufacturer;
 for example, the NTC 10K B3950 indicates that Beta is 3950. This menu
-offers the option to update R1 using the value of T1 as a reference.</p>
+offers the option to update R<sub>1</sub> using the value of T<sub>1</sub> as a reference.</p>
 <p>This menu enables digit-by-digit editing.</p></td>
 </tr>
 <tr class="odd">

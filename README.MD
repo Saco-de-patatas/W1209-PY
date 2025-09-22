@@ -97,9 +97,9 @@ simplificada de Steinhart-hart, concretamente en la forma:
 
 $$T_{1} = \frac{\beta}{\ln{\frac{R_{1}}{R_{0}} + \frac{\beta}{T_{0}}}} = \ \frac{\beta}{\ln{R_{1} - \ln R_{0}} + \frac{\beta}{T_{0}}}$$
 
-![](Schematic/Esquema_W1206_PY.png){width="7.644419291338583in"
-height="5.822916666666667in"}En el siguiente esquema se muestra la
+En el siguiente esquema se muestra la
 variación de la versión HW-557C adaptada a la mejora del W1209-PY.
+![](Schematic/Esquema_W1206_PY.png)
 
 La operación de W1209-PY es parecida a la del módulo original. Se ha
 intentado conservar cierta "compatibilidad" para que la gente que ya

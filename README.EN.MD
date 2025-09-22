@@ -1,3 +1,5 @@
+Para la versión en español, click [aquí].<https://github.com/Saco-de-patatas/W1209-PY/blob/main/README.MD>
+
 **Description:**
 
 The following project involves modifying the W1209 thermostat to

@@ -135,13 +135,13 @@ realice la captura del valor de la resistencia del sensor en ese
 instante, o bien se cancele dicha captura cambiando a "no". La captura
 se hace con una pulsación corta de "SET".
 
-Instrucciones generales (Las novedades se indican en rojo):
+Instrucciones generales:
 
 - En la pantalla de temperatura, una pulsación corta en "SET" entra en
   la configuración de temperatura objetivo. Se indica porque la pantalla
   queda intermitente indicando la temperatura deseada de activación.
 
-- »En la pantalla de temperatura, una pulsación larga (mayor a dos
+- En la pantalla de temperatura, una pulsación larga (mayor a dos
   segundos) en "+" activa el relé independientemente de la
   configuración. Una pulsación larga en "-" lo desactiva. Una pulsación
   corta en cualquiera de estos dos botones, para la alarma por run

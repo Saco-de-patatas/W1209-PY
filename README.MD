@@ -135,7 +135,7 @@ realice la captura del valor de la resistencia del sensor en ese
 instante, o bien se cancele dicha captura cambiando a "no". La captura
 se hace con una pulsación corta de "SET".
 
-Instrucciones generales:
+**Instrucciones generales:**
 
 - En la pantalla de temperatura, una pulsación corta en "SET" entra en
   la configuración de temperatura objetivo. Se indica porque la pantalla

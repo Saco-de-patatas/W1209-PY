@@ -1,3 +1,5 @@
+For the english version, click [here](README.EN.MD).
+
 **Descripción:**
 
 El siguiente proyecto es la modificación del termostato W1209 para

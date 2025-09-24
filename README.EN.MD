@@ -89,6 +89,9 @@ operating it.
 
 <https://www.youtube.com/watch?v=GLePONN3KA0>
 
+Part 2: 
+<https://youtu.be/_CAQPqhfl-Q>
+
 The operation of the W1209-PY firmware is based on the simplified
 Steinhart-hart equation, specifically in the form:
 

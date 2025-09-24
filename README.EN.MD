@@ -87,7 +87,7 @@ The video also details the entire modification process from the very
 beginning, from flashing the firmware to turning the device on and
 operating it.
 
-<https://www.youtube.com/watch?v=GLePONN3KA0>
+Part 1:<https://www.youtube.com/watch?v=GLePONN3KA0>
 
 Part 2: 
 <https://youtu.be/_CAQPqhfl-Q>

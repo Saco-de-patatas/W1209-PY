@@ -90,7 +90,12 @@ Además en el video, desde el principio, se detalla todo el proceso de
 modificación, desde la grabación del firmware hasta el encendido y
 funcionamiento del dispositivo.
 
-<https://www.youtube.com/watch?v=GLePONN3KA0>
+
+Parte 1: <https://youtu.be/GLePONN3KA0>
+
+Parte 2: 
+<https://youtu.be/_CAQPqhfl-Q>
+
 
 El funcionamiento del firmware del W1209-PY se basa en la ecuación
 simplificada de Steinhart-hart, concretamente en la forma:
